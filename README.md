@@ -1,4 +1,4 @@
 Demineur - Star Wars Edition
 ==========
 
-Un démineur Pascal orienté StarWars, disponible en console et en GUI
+A simple Satr Wars oriented minesweeper, created with Arthur Ferec
